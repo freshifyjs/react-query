@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/freshifyjs/react-query?style=for-the-badge&logo=github" alt="Stars">
 </p>
 
-# obj-transform
+# react-query
 **Библиотека для имутабельной трансформации объектов**
 
 [![npm downloads](https://img.shields.io/npm/dm/@freshifyjs/react-query)](https://npmjs.com/package/@freshifyjs/react-query)
