@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "lib": ["ES2022", "dom"],
+        "outDir": "./dist",
+        "rootDir": "./lib",
+        "declaration": true,
+        "emitDeclarationOnly": true
+    },
+    "include": ["lib/**/*"],
+    "exclude": ["node_modules", "dist"]
+}

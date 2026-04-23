@@ -1,0 +1,26 @@
+{
+    "name": "@freshifyjs/react-query",
+    "version": "0.0.1",
+    "description": "",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "keywords": [
+        "react",
+        "utils",
+        "freshify"
+    ],
+    "author": "Tr1gEr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/freshifyjs/react-query"
+    },
+    "peerDependencies": {
+        "react": "^19.2.4"
+    },
+    "devDependencies": {
+        "@types/react": "^19.2.14"
+    }
+}
