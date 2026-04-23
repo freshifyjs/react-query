@@ -7,7 +7,7 @@
 </p>
 
 # react-query
-**Библиотека для имутабельной трансформации объектов**
+**библиотека для управления запросами к API**
 
 [![npm downloads](https://img.shields.io/npm/dm/@freshifyjs/react-query)](https://npmjs.com/package/@freshifyjs/react-query)
 [![GitHub issues](https://img.shields.io/github/issues/freshifyjs/react-query)](https://github.com/freshifyjs/react-query/issues)
